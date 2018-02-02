@@ -1,0 +1,92 @@
+h1, h2, h3, h4 {
+  text-align: center;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #EBEBEB;
+}
+.photo {
+  background-color: white;
+  width: 500px;
+  height: 450px;
+  margin: auto;
+  border-radius: 10px;
+  padding: 10px;
+  color: grey;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7),
+              -1px 2px 20px rgba(255, 255, 255, 0.6) inset;
+}
+.social {
+  background-color: white;
+  width: 500px;
+  height: 100px;
+  margin: auto;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding: 10px;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7),
+              -1px 2px 20px rgba(255, 255, 255, 0.6) inset;
+  font-size: 17px;
+}
+.movies {
+  background-color: white;
+  width: 500px;
+  height: 800px;
+  margin: auto;
+  border-radius: 5px;
+  margin-top: 30px;
+  padding: 10px;
+  color: grey;
+  box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.7),
+              -1px 2px 20px rgba(255, 255, 255, 0.6) inset;
+}
+.bern {
+  display: block;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid lightgrey;
+  width: 7vw;
+}
+h1 {
+  color: #ED3B39;
+}
+.bouton a {
+display:block;
+width:150px;
+line-height:50px;
+text-align:center;
+vertical-align:middle;
+background-color: #ED3B39;
+color:white;
+text-decoration:none;
+display: block;
+margin-left: auto;
+margin-right: auto;
+border-radius: 5px;
+}
+.soc {
+	padding: 0; margin: 0;
+}
+.soc li {
+	display: inline;
+	list-style: none;
+}
+.soc a {
+  display: inline-block;
+  margin: 0 40px;
+  margin-top: 30px;
+  margin-left: 48px;
+  color: grey;
+  opacity: 0.5;
+  text-align: center;
+}
+.affiche {
+  height: 10vw;
+  padding: 8px;
+  margin: 10px;
+}
+.movies p {
+  word-spacing: 1.5px;
+  font-size: 13.5px;
+}
